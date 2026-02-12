@@ -1,1 +1,1 @@
-# PayPal-support...3
+# PayPal-support
